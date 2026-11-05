@@ -22,7 +22,7 @@
 
 The project aims to provide a modern, native interface for organizing virtual machines and configuring their settings, with the long-term goal of integrating a suitable virtualization backend.
 
-CloverVM is currently focused on its SwiftUI interface and application architecture. Actual virtual machine execution is not implemented yet.
+iVM is currently focused on its SwiftUI interface and application architecture. Actual virtual machine execution is not implemented yet.
 
 ## Features
 
