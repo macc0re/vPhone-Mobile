@@ -1,10 +1,10 @@
 
-# CloverVM
+# iVM
 
 <p align="center">
   <strong>A modern virtual machine manager for iOS and iPadOS.</strong>
   <br>
-  Built by <strong>Clover</strong>
+  Built by <strong>0ldfriend</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About
 
-**CloverVM** is an experimental virtual machine management app for iOS and iPadOS, developed by **Clover**.
+**iVM** is an experimental virtual machine management app for iOS and iPadOS, developed by **Clover**.
 
 The project aims to provide a modern, native interface for organizing virtual machines and configuring their settings, with the long-term goal of integrating a suitable virtualization backend.
 
@@ -38,7 +38,7 @@ CloverVM is currently focused on its SwiftUI interface and application architect
 
 ## Project Status
 
-CloverVM is in **early development**.
+iVM is in **early development**.
 
 | Component | Status |
 |---|---|
@@ -66,8 +66,8 @@ Actual virtualization capabilities will depend on device hardware, operating-sys
 ### Using Xcode
 
 1. Clone or download this repository.
-2. Open `CloverVM.xcodeproj` in Xcode on a compatible Mac.
-3. Select the `CloverVM` scheme.
+2. Open `iVM.xcodeproj` in Xcode on a compatible Mac.
+3. Select the `iVM` scheme.
 4. Choose an iOS Simulator destination.
 5. Build and run the project.
 
@@ -75,7 +75,7 @@ Actual virtualization capabilities will depend on device hardware, operating-sys
 
 1. Push the project to GitHub.
 2. Open the repository's **Actions** tab.
-3. Select **CloverVM iOS Build**.
+3. Select **iVM iOS Build**.
 4. Run the workflow or push a commit.
 5. Download the artifacts after a successful build.
 
@@ -98,7 +98,7 @@ The roadmap may change as development progresses.
 
 ## Limitations
 
-CloverVM is **not yet a functioning hypervisor**. The current version is a management-interface prototype; creating a VM profile does not mean that a guest operating system can boot.
+iVM is **not yet a functioning hypervisor**. The current version is a management-interface prototype; creating a VM profile does not mean that a guest operating system can boot.
 
 Virtualization on iOS and iPadOS depends on platform APIs, device hardware, operating-system restrictions, and runtime requirements. Support for specific operating systems will be evaluated as the project develops.
 
@@ -114,10 +114,10 @@ Before submitting a pull request:
 
 ## License
 
-CloverVM is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+iVM is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ---
 
 <p align="center">
-  Made with SwiftUI by <strong>Clover</strong>
+  Made with SwiftUI by <strong>0ldfriend</strong>
 </p>
