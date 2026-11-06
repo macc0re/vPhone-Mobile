@@ -3,7 +3,7 @@
 <p align="center">
   <strong>An experimental mobile userspace runtime and virtual environment for iOS and iPadOS.</strong>
   <br>
-  Built by <strong>Mac.Clover</strong>
+  Built by <strong>Mac.Core</strong>
 </p>
 
 <p align="center">
