@@ -27,11 +27,11 @@ A Mac-hosted virtualization engine may be explored as an optional companion for 
 
 ## Project history
 
-This repository was originally developed as **CloverVM**.
+This repository was originally developed as **iVM**.
 
-### CloverVM — original direction
+### iVM — original direction
 
-CloverVM began as an iOS and iPadOS virtual machine manager inspired by tools such as UTM. The original concept focused on a SwiftUI dashboard for creating and organizing virtual machine profiles, configuring guest machines, selecting ISO images, and eventually connecting those profiles to a virtualization backend.
+iVM began as an iOS and iPadOS virtual machine manager inspired by tools such as UTM. The original concept focused on a SwiftUI dashboard for creating and organizing virtual machine profiles, configuring guest machines, selecting ISO images, and eventually connecting those profiles to a virtualization backend.
 
 The early app included interface prototypes for the VM dashboard, machine configuration, machine details, ISO selection, and settings. A working guest execution engine was not implemented.
 
@@ -39,7 +39,7 @@ The early app included interface prototypes for the VM dashboard, machine config
 
 The project has since been rethought and renamed **vPhone Mobile**. Instead of focusing only on managing conventional virtual machines, development is now centered on an on-device userspace runtime and compatibility environment, with Nyxian's general approach as a primary research reference.
 
-The earlier CloverVM work remains part of the project's history and provides the starting point for its mobile application structure.
+The earlier iVM work remains part of the project's history and provides the starting point for its mobile application structure.
 
 ## Planned architecture
 
@@ -64,7 +64,7 @@ vPhone Mobile is in **early experimental development**.
 | Component | Status |
 |---|---|
 | SwiftUI application foundation | Existing prototype |
-| Original CloverVM interface | Historical prototype |
+| Original iVM interface | Historical prototype |
 | Runtime architecture | Research and design |
 | Process management | Not implemented |
 | Virtual filesystem | Not implemented |
