@@ -17,13 +17,14 @@
 
 ## About
 
-**vPhone Mobile** is an experimental project exploring a self-contained userspace environment for iOS and iPadOS. Its direction is inspired primarily by the ideas behind projects such as Nyxian and by practical experiences with environments such as Switchzart.
+**vPhone Mobile** is an experimental project exploring a self-contained userspace environment for iOS and iPadOS. Its direction is inspired primarily by the ideas behind projects such as Nyxian and by practical experiences with environments such as Switzach.
 
 The long-term goal is to build a mobile runtime with its own process and service management, virtual filesystem, application environment, and compatibility components. The project will also investigate how supported jailbreak environments could integrate through separate adapters.
 
 A Mac-hosted virtualization engine may be explored as an optional companion for workloads that require a full virtual machine. That is a separate path from the on-device userspace runtime.
 
-**This project is experimental. It is not currently a full iOS virtual machine, hypervisor, or compatibility layer for arbitrary iOS applications.** No claim is made that stock iOS apps can run simply by copying their files into the runtime.
+> [!NOTE]
+> **This project is experimental. It is not currently a full iOS virtual machine, hypervisor, or compatibility layer for arbitrary iOS applications.** No claim is made that stock iOS apps can run simply > by copying their files into the runtime.
 
 ## Project history
 
@@ -142,5 +143,5 @@ vPhone Mobile is distributed under the **MIT License**. See [`LICENSE`](LICENSE)
 ---
 
 <p align="center">
-  Built with Swift by <strong>Mac.Clover</strong>
+  Built with Swift by <strong>Mac.C0re</strong>
 </p>
