@@ -143,5 +143,5 @@ vPhone Mobile is distributed under the **MIT License**. See [`LICENSE`](LICENSE)
 ---
 
 <p align="center">
-  Built with Swift by <strong>Mac.C0re</strong>
+  Built with Swift by <strong>Mac.Core</strong>
 </p>
